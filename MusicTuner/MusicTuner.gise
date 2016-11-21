@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="MusicTuner.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Bit_Map.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Bit_Map.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Bit_Map.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Gen_Note.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Gen_Note.stx"/>
+    <file xil_pn:fileType="FILE_VERILOG_INSTTEMPLATE" xil_pn:name="Gen_Note.tfi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Gen_Note.xst"/>
+    <file xil_pn:fileType="FILE_VERILOG_INSTTEMPLATE" xil_pn:name="Key_Cont.tfi"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Letter_Graph.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Letter_Graph.stx"/>
+    <file xil_pn:fileType="FILE_VERILOG_INSTTEMPLATE" xil_pn:name="Letter_Graph.tfi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Letter_Graph.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Play_Graph.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Play_Graph.stx"/>
+    <file xil_pn:fileType="FILE_VERILOG_INSTTEMPLATE" xil_pn:name="Play_Graph.tfi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Play_Graph.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="RecHilight.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="RecHilight.stx"/>
+    <file xil_pn:fileType="FILE_VERILOG_INSTTEMPLATE" xil_pn:name="RecHilight.tfi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="RecHilight.xst"/>
+    <file xil_pn:fileType="FILE_VERILOG_INSTTEMPLATE" xil_pn:name="Screen_Map.tfi"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SquareGraph.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="SquareGraph.stx"/>
+    <file xil_pn:fileType="FILE_VERILOG_INSTTEMPLATE" xil_pn:name="SquareGraph.tfi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="SquareGraph.xst"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="ps2_rx.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="ps2_rx.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_VERILOG_INSTTEMPLATE" xil_pn:name="ps2_rx.tfi"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema"/>
+
+</generated_project>

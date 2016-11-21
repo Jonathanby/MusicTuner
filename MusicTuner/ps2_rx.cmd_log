@@ -1,0 +1,3 @@
+vhdtdtfi -lib work {C:/Users/Jonathan/Documents/Fall 2016/ECE 415/Programs/MusicTuner/list_ch09_01_ps2_rx.v} -lang verilog -prj MusicTuner -o ps2_rx.spl -module ps2_rx -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e ps2_rx.spl {C:/Users/Jonathan/Documents/Fall 2016/ECE 415/Programs/MusicTuner/ps2_rx.sym} 
+vhdtdtfi -lang verilog -prj MusicTuner -o "C:/Users/Jonathan/Documents/Fall 2016/ECE 415/Programs/MusicTuner/ps2_rx.tfi" -lib work "C:/Users/Jonathan/Documents/Fall 2016/ECE 415/Programs/MusicTuner//list_ch09_01_ps2_rx.v" -module ps2_rx -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+SquareGraph instance_name (
+    .pix_x(pix_x), 
+    .pix_y(pix_y), 
+    .square_on(square_on), 
+    .square_rgb(square_rgb)
+    );
+
+

@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+Screen_Map instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .note_array(note_array), 
+    .mode(mode), 
+    .rgb(rgb), 
+    .hsync(hsync), 
+    .vsync(vsync)
+    );
+
+

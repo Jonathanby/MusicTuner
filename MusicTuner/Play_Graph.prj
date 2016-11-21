@@ -1,0 +1,3 @@
+verilog work "SquareGraph.v"
+verilog work "RecHilight.v"
+verilog work "Play_Graph.v"

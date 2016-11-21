@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Jonathan/Documents/Fall 2016/ECE 415/Programs/MusicTuner/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Jonathan/Documents/Fall 2016/ECE 415/Programs/MusicTuner/xst"
+elaborate
+-ifn Bit_Map.prj
+-ifmt mixed

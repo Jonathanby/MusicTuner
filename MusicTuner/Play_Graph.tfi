@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+Play_Graph instance_name (
+    .video_on(video_on), 
+    .pix_x(pix_x), 
+    .pix_y(pix_y), 
+    .graph_rgb(graph_rgb)
+    );
+
+

@@ -1,0 +1,38 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Jonathan/Documents/Fall 2016/ECE 415/Programs/MusicTuner/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Jonathan/Documents/Fall 2016/ECE 415/Programs/MusicTuner/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "Bit_Map.v" in library work
+ERROR:HDLCompilers:28 - "Bit_Map.v" line 70 'wall_on' has not been declared
+ERROR:HDLCompilers:28 - "Bit_Map.v" line 71 'wall_rgb' has not been declared
+ERROR:HDLCompilers:28 - "Bit_Map.v" line 72 'bar_on' has not been declared
+ERROR:HDLCompilers:28 - "Bit_Map.v" line 73 'bar_rgb' has not been declared
+ERROR:HDLCompilers:28 - "Bit_Map.v" line 74 'rd_ball_on' has not been declared
+ERROR:HDLCompilers:28 - "Bit_Map.v" line 75 'ball_rgb' has not been declared
+ERROR:HDLCompilers:28 - "Bit_Map.v" line 76 'rd_shape_on' has not been declared
+ERROR:HDLCompilers:28 - "Bit_Map.v" line 77 'shape_rgb' has not been declared
+Module <Bit_Map> compiled
+Analysis of file <"Bit_Map.prj"> failed.
+--> 
+
+Total memory usage is 263936 kilobytes
+
+Number of errors   :    8 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

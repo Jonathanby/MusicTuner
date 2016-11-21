@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+ps2_rx instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .ps2d(ps2d), 
+    .ps2c(ps2c), 
+    .rx_en(rx_en), 
+    .rx_done_tick(rx_done_tick), 
+    .dout(dout)
+    );
+
+

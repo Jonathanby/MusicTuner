@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Letter_Graph instance_name (
+    .pix_x(pix_x), 
+    .pix_y(pix_y), 
+    .letter(letter), 
+    .letter_on(letter_on), 
+    .letter_rgb(letter_rgb)
+    );
+
+
