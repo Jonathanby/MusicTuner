@@ -1,3 +1,4 @@
 verilog work "SquareGraph.v"
 verilog work "RecHilight.v"
+verilog work "Letter_Graph.v"
 verilog work "Play_Graph.v"
